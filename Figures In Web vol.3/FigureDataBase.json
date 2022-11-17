@@ -1,0 +1,114 @@
+{
+  "$type": "System.Collections.Generic.LinkedList`1[[Serialized_Shapes_2._0.Figures.Figure, Figures In Web vol.3]], System.Collections",
+  "$values": [
+    {
+      "$type": "Serialized_Shapes_2._0.Figures.Circle, Figures In Web vol.3",
+      "radius": 5.0,
+      "Points": {
+        "$type": "System.Collections.Generic.LinkedList`1[[Serialized_Shapes_2._0.Point, Figures In Web vol.3]], System.Collections",
+        "$values": [
+          {
+            "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+            "X": 3.0,
+            "Y": 5.0
+          },
+          {
+            "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+            "X": 6.0,
+            "Y": 9.0
+          }
+        ]
+      },
+      "Sides": null,
+      "Center": {
+        "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Area": 78.53981633974483,
+      "Perimetr": 31.41592653589793
+    },
+    {
+      "$type": "Serialized_Shapes_2._0.Figures.Triangle, Figures In Web vol.3",
+      "Points": {
+        "$type": "System.Collections.Generic.LinkedList`1[[Serialized_Shapes_2._0.Point, Figures In Web vol.3]], System.Collections",
+        "$values": [
+          {
+            "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+            "X": 0.0,
+            "Y": 0.0
+          },
+          {
+            "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+            "X": 0.0,
+            "Y": 3.0
+          },
+          {
+            "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+            "X": 4.0,
+            "Y": 0.0
+          }
+        ]
+      },
+      "Sides": {
+        "$type": "System.Collections.Generic.LinkedList`1[[System.Double, System.Private.CoreLib]], System.Collections",
+        "$values": [
+          5.0,
+          3.0,
+          4.0
+        ]
+      },
+      "Center": {
+        "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+        "X": 1.3333333333333333,
+        "Y": 1.0
+      },
+      "Area": 36.0,
+      "Perimetr": 12.0
+    },
+    {
+      "$type": "Serialized_Shapes_2._0.Figures.Rectangle, Figures In Web vol.3",
+      "Points": {
+        "$type": "System.Collections.Generic.LinkedList`1[[Serialized_Shapes_2._0.Point, Figures In Web vol.3]], System.Collections",
+        "$values": [
+          {
+            "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+            "X": 3.3529701205010145,
+            "Y": -1.8030950043391558
+          },
+          {
+            "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+            "X": -1.352970120501014,
+            "Y": 5.803095004339156
+          },
+          {
+            "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+            "X": -3.454258075771933,
+            "Y": 2.3994809062026823
+          },
+          {
+            "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+            "X": 5.454258075771934,
+            "Y": 1.6005190937973182
+          }
+        ]
+      },
+      "Sides": {
+        "$type": "System.Collections.Generic.LinkedList`1[[System.Double, System.Private.CoreLib]], System.Collections",
+        "$values": [
+          8.0,
+          4.0,
+          8.0,
+          4.0
+        ]
+      },
+      "Center": {
+        "$type": "Serialized_Shapes_2._0.Point, Figures In Web vol.3",
+        "X": 1.0,
+        "Y": 2.0
+      },
+      "Area": 32.0,
+      "Perimetr": 24.0
+    }
+  ]
+}
